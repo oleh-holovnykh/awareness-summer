@@ -38,6 +38,15 @@ const Requisites: React.FC = () => {
     🔥Важливо, щоб платіж був від фізособи.
     <br />А не від ФОП, чи організації
     <br/>
+    🔥 Після оплати пришліть, будь ласка, скрін платежу&nbsp;
+  <a
+    href="https://t.me/oleh_holovnykh"
+    target="_blank"
+    rel="noopener noreferrer"
+    className="text-blue-600 hover:text-blue-800 underline"
+  >
+    @oleh_holovnykh
+  </a>
     <br/>
   </div>
   )
